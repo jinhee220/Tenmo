@@ -1,0 +1,14 @@
+2024-03-10T07:10:46.3531898 401 : [no body]
+2024-03-10T07:32:30.9705458 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T07:58:54.528077 500 : [{"timestamp":"2024-03-10T11:58:54.466+00:00","status":500,"error":"Internal Server Error","message":"500 INTERNAL_SERVER_ERROR","path":"/users/accounts/2001"}]
+2024-03-10T08:14:20.8634899 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T08:14:45.9672264 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T08:14:55.8768627 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T08:15:21.7162882 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T08:16:37.7949913 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T08:18:36.1171517 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T08:25:04.2437757 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T08:25:12.7952053 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T08:26:21.0492702 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2024-03-10T10:19:57.0866827 500 : [{"timestamp":"2024-03-10T14:19:57.068+00:00","status":500,"error":"Internal Server Error","message":"500 INTERNAL_SERVER_ERROR","path":"/transfers/user/1001"}]
+2024-03-10T10:26:29.6832809 401 : [no body]
